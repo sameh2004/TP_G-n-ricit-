@@ -1,1 +1,1 @@
-# TP_G-n-ricit-
+# TP_Généricit-
